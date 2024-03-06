@@ -1,0 +1,38 @@
+.topbar
+{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    position: sticky;
+    top:0;
+    z-index: 999;
+}
+.topbarwrapper
+{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+.logo
+{
+    color: rgb(19, 19, 79);
+    font-weight: bold;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.topleft
+{
+    display: flex;
+    align-items: center;
+
+}
+
+.topright
+{
+    display: flex;
+    align-items: center;
+
+}

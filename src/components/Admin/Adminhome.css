@@ -1,0 +1,121 @@
+/* Global styles */
+.wel
+{
+  margin-left: 250px;
+  margin-top: 50px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  
+  
+  }
+  
+  
+  /* Header styles */
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  /* Sidebar styles */
+  .sidebar {
+    background-color: #222;
+    color: #fff;
+    width: 250px;
+    padding: 1rem;
+  }
+  
+  /* Main content area styles */
+  .content {
+    flex: 1;
+    padding: 1rem;
+  }
+  
+  /* Table styles */
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+  }
+  
+  /* Buttons styles */
+  .button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Form styles */
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .form-label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Footer styles */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
+  /* Adminhome.css */
+
+.aa {
+  text-align: center;
+  margin-top: 50px; /* Adjust the margin as needed */
+}
+/* Adminhome.css */
+
+.aa {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.aa h1 {
+  font-family: 'Arial', sans-serif; /* Use your preferred font-family */
+  color: #020012; /* Set your desired text color */
+  font-size: 40px; /* Set your desired font size */
+  text-shadow: 2px 2px 4px rgba(35, 33, 33, 0.2); /* Add a subtle text shadow */
+  margin-top: 20px; /* Adjust the margin as needed */
+}
+.center-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh; /* Adjust this value based on your needs */
+}
+
+/* Add styles to center the image */
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,29 @@
+/* SearchBar.css */
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px; /* Adjust the margin as needed */
+  }
+  
+  input {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    margin-left: 10px;
+    padding: 8px 16px;
+    font-size: 16px;
+    background-color: #007bff; /* Adjust the color as needed */
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* You can add more styling as needed */
+  
